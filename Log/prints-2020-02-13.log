@@ -1,0 +1,8 @@
+15:05:29.107 [main] INFO  mycompany.Test_DragDrop - PWD saisi
+15:05:30.072 [main] INFO  mycompany.Test_DragDrop - click sur linkForge
+15:05:30.110 [main] ERROR mycompany.Test_DragDrop - j'ai pas pu acceder a la page 
+15:08:39.929 [main] INFO  mycompany.Test_DragDrop - userId saisi
+15:08:40.029 [main] INFO  mycompany.Test_DragDrop - PWD saisi
+15:08:41.107 [main] INFO  mycompany.Test_DragDrop - click sur linkForge
+15:08:41.120 [main] INFO  mycompany.Test_DragDrop - PageForgetPassword 
+15:22:10.078 [main] INFO  mycompany.Test_DragDrop - userId saisi
